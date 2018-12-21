@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>    //header files
 void main()
 {
 printf("hello");
